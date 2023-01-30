@@ -1,1 +1,1 @@
-# python-img-web-scrapper
+# python-image-web-scrapper
